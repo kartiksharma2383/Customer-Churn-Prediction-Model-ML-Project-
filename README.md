@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction-Model-ML-Project-
+This project is used to predict customer churn (means when customers stop using a company’s product or service). I uses Telco customer dataset, which is cleaned by handling missing values in the TotalCharges column and converting data types. The notebook explores exploratory data analysis to understand key features that influence churn, such as contract type and monthly charges. The project builds a predictive model to help businesses identify at-risk customers, allowing them to implement targeted retention strategies. 
